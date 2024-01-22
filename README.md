@@ -5,7 +5,6 @@
 
 ### Estatísticas do perfil:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabramattos&show_icons=true&theme=vision-friendly-dark&hide_rank=true&hide=contribs,issues)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabramattos&layout=compact&theme=vision-friendly-dark)
 <!--
 **fabramattos/fabramattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
