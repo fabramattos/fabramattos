@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Minha Stack:
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,docker,mysql,postman,rabbitmq,selenium,github,githubactions,idea,androidstudio,gradle,maven)](https://skillicons.dev)
+
 <!--
 **fabramattos/fabramattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
