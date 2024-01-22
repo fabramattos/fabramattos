@@ -1,9 +1,10 @@
-### Hi there 👋
+# 🚧 readme em construção 🚧
 
+## Perfil
 ### Minha Stack:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,docker,mysql,postman,rabbitmq,selenium,github,githubactions,idea,androidstudio,gradle,maven)](https://skillicons.dev)
 
-### Estatísticas do perfil:
+### Estatísticas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabramattos&layout=compact&theme=vision-friendly-dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabramattos&show_icons=true&theme=vision-friendly-dark&hide_rank=true&hide=contribs,issues)
