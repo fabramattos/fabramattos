@@ -2,7 +2,7 @@
 
 ## Perfil
 ### Minha Stack:
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,docker,mysql,postman,rabbitmq,selenium,github,githubactions,idea,androidstudio,gradle,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,kotlin,java,spring,docker,mysql,postman,rabbitmq,selenium,github,githubactions,androidstudio,gradle,maven)](https://skillicons.dev)
 
 ### Estatísticas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabramattos&layout=compact&theme=vision-friendly-dark)
