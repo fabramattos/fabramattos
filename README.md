@@ -1,8 +1,12 @@
 # 🚧 readme em construção 🚧
+![git031](https://github.com/fabramattos/fabramattos/assets/45768087/aed0438e-2f52-4aca-bd86-2ac169c93e4d)
+# BEM VINDO AO MEU PERFIL!
+Me chamo Felipe, engenheiro de automação e controle, graduado em 2017.<br>
+Trabalho como desenvolvedor Backend ha mais de 6 anos, atuando principalmente com Java.<br>
+Utilizo Kotlin sempre que possível em meus projetos, estudando muito tudo que envolve REST API, alem de Docker e Devops, focando no Backend.
 
-## Perfil
-### Minha Stack:
-[![My Skills](https://skillicons.dev/icons?i=idea,kotlin,java,spring,docker,mysql,postman,rabbitmq,selenium,github,githubactions,androidstudio,gradle,maven)](https://skillicons.dev)
+## Minha Stack:
+[![My Skills](https://skillicons.dev/icons?i=idea,kotlin,java,spring,docker,postgres,mysql,postman,rabbitmq,selenium,github,githubactions,gradle,maven)](https://skillicons.dev)
 
 ### Estatísticas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabramattos&layout=compact&theme=vision-friendly-dark)
