@@ -5,6 +5,7 @@
 🖥️ Trabalho como desenvolvedor Backend ha mais de 6 anos, atuando principalmente com Java.<br>
 💻 Utilizo Kotlin sempre que possível em meus projetos de Backend.<br>
 🌱 Estudando muito na **Escola de Tecnologia da Alura**, de tudo um pouco: REST API, Banco de Dados, Docker, Agilidade, Devops, Android...<br>
+👨‍🎓 [certificados **Alura**](https://cursos.alura.com.br/vitrinedev/fabramattos)
 
 ### Minha Stack:
 [![My Skills](https://skillicons.dev/icons?i=idea,kotlin,java,spring,docker,postgres,mysql,postman,rabbitmq,selenium,github,githubactions,gradle,maven)](https://skillicons.dev)<br>
