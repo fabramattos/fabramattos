@@ -1,5 +1,5 @@
 ![Gato Siames olhando para um monitor com códigos na tela](https://github.com/fabramattos/fabramattos/assets/45768087/aed0438e-2f52-4aca-bd86-2ac169c93e4d)
-*Change language:* [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/fabramattos/fabramattos/blob/main/README.md)<br>
+*Change language:* [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/fabramattos)<br>
 
 # BEM-VINDO AO ~MUNDO REAL~ MEU PERFIL!
 
