@@ -1,5 +1,5 @@
 ![Siamese cat looking at a monitor's screen filled with codes](https://github.com/fabramattos/fabramattos/assets/45768087/aed0438e-2f52-4aca-bd86-2ac169c93e4d)
-> ### Mude para pt-BR [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/fabramattos/fabramattos/blob/main/README_PT-BR.md)
+*Mude o idioma:* [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/fabramattos/fabramattos/blob/main/README_PT-BR.md)
 
 # WELCOME TO ~THE REAL WORLD~ MY PROFILE!
 😅 Hi! Lost in the Matrix?<br>
